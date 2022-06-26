@@ -7,7 +7,7 @@
 <!-- Add a button to activate scraping script -->
 <p><a class="btn btn-info btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
 ```
-Additionally, the table's formatting was changed to a condensed style with the edit to our code below. 
+##### Additionally, the table's formatting was changed to a condensed style with the edit to our code below. 
 ```
 <div class="col-md-4">
   <!-- Mars Facts -->
@@ -17,3 +17,7 @@ Additionally, the table's formatting was changed to a condensed style with the e
     </div>
   </div>
 ```
+##### Below are images of how the page is seen on a desktop browser and a mobile device. 
+![browser_view1.PNG](https://github.com/carinaediaz/mission-to-mars/blob/main/Resources/browser_view1.PNG)
+![browser_view2.PNG](https://github.com/carinaediaz/mission-to-mars/blob/main/Resources/browser_view2.PNG)
+![mobile_view.PNG](https://github.com/carinaediaz/mission-to-mars/blob/main/Resources/mobile_view.PNG)
